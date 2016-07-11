@@ -15,3 +15,7 @@ Blablabla text under purpose
 Blabla text under deployment
 
 ## How To Contribute
+
+### Copyright
+
+Jack Alcock
