@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jack Alcock	jack@jackalcock.co.uk
 
 # THANKS
 
