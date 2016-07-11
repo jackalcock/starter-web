@@ -16,6 +16,9 @@ Blabla text under deployment
 
 ## How To Contribute
 
+Please fork this repository and then issue pull request for review
+
+
 ### Copyright
 
 Jack Alcock
